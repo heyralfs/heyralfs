@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm Ralf, from Brazil (:v:). I'm a mathematician by background and a developer by passion (and now profession). I'm currently working as a front-end developer, learning React and loving more and more coding with JS (:satisfied::heart:).
+I'm Ralf, from Brazil (:v:).
+
+I'm a mathematician by background and a developer by passion (and now profession). 
+I'm currently working as a software developer with React, React Native and Node.JS, and loving more and more coding with JS (:satisfied::heart:).
 
 Wanna say "hi"? <br>
   &nbsp; &nbsp;      ✉️ ralfoliveira@gmail.com <br>
