@@ -8,6 +8,6 @@ Wanna say "hi"? <br>
        
 Find me also on:<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ralf-o/)](https://www.linkedin.com/in/ralf-o/)
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ralfoliveira@gmail.com)](mailto:ralfoliveira@gmail.com)
 
 
