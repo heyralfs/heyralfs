@@ -3,7 +3,7 @@
 I'm Ralf, from Brazil (:v:).
 
 I'm a mathematician by background (BSc and MSc) and a developer by passion (and now profession). <br>
-I'm currently working as a software developer with React, React Native and Node.JS, and loving more and more coding with JS (:satisfied::heart:).
+I'm currently working as a software developer with React, React Native, Node.JS and AWS, and loving more and more coding with JS (:satisfied::heart:).
 
 Wanna say "hi"? <br>
   &nbsp; &nbsp;      ✉️ ralfoliveira@gmail.com <br>
