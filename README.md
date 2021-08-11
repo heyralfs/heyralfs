@@ -2,11 +2,10 @@
 
 I'm Ralf, from Brazil :v:.
 
-I'm a mathematician by background (BSc and MSc :nerd_face:) and a developer by passion (and now profession). <br>
-I'm currently working as a software developer with React, React Native, Node.JS and AWS, and loving more and more coding with JS :heart:.
+I'm a mathematician by background (BSc and MSc) and a developer by passion (and now profession). <br>
+I'm currently working as a software developer with React, React Native, Node.JS and AWS.
 
 Wanna say "hi"? <br>
-  &nbsp; &nbsp;      ✉️ ralfoliveira@gmail.com <br>
   &nbsp; &nbsp;      📱  +55 31 9 9466-5145
        
 Find me also on:<br>
