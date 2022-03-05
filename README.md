@@ -3,7 +3,7 @@
 I'm Ralf, from Brazil :v:.
 
 I'm a mathematician by background (BSc and MSc) and a developer by passion (and now profession). <br>
-I'm currently working as a software developer with React, Node.JS, MongoDB and AWS and studying about NextJS and JAMStack.
+I'm currently working as a software developer with React, Node.JS, MongoDB and AWS and excitedly studying about NextJS and JAMStack.
 
 
        
